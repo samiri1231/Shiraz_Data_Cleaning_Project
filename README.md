@@ -27,8 +27,8 @@ This project demonstrates a full **Data cleaning and transformation pipeline** i
 
   ## Files
  - **Shiraz_Data_Cleaning_File.sql** => SQL script containing full cleaning workflow along with 'personality filled comments' explaining workflow (SFW)
- - **README.md** Project Overview (what you're reading now)
- - **layoffs.csv** Original data files (For before and after cleaning)
+ - **README.md** => Project Overview (what you're reading now)
+ - **layoffs.csv** => Original data files (in case you wanted to know what it looked like before)
 
 
 Once again thanks for spending the time to read this, have a great day!!
